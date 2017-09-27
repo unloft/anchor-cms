@@ -12,7 +12,7 @@ input, textarea, button {
 }
 
 textarea[name="markdown"] {
-	background: transparent;
+	background: #fff;
 	padding: 0px;
 }
 
